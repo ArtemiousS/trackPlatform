@@ -1,5 +1,3 @@
-﻿#if _COMMANDS_ENUM_H_
-#define _COMMANDS_ENUM_H_
 
 enum ControllerEnum
 {
@@ -87,4 +85,4 @@ enum ApiVersion
     APIWithCRC = 4,								//API v4
 };
 
-#endif /* _COMMANDS_ENUM_H_ */
+
